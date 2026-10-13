@@ -6,11 +6,11 @@ Most of my projects start with something I find frustrating, an idea I want to e
 
 ## Projects
 
-- **[JAYVIS](https://jay-vis.web.app/)**: Offline desktop AI assistant with local inference, voice interaction, per-chat memory, and a skill system.
+- **[J.A.Y.V.I.S](https://jay-vis.web.app/)**: Offline desktop AI assistant with local inference, voice interaction, per-chat memory, and a skill system.
 - **[SENTINEL](https://github.com/TheGamerPlayz929/YoutubeAdBlocker)**: Native C/C++ personal system protection with network monitoring, system hardening, and AI-agent activity detection.
-- **[TutorSAT](https://tutorsat.web.app)**: SAT math practice platform with a custom question-rearrangement engine.
-- **[SharedKanban](https://github.com/Jay-B-R/SharedKanban)**: Android Kanban app with calendar integration and Firestore synchronization.
-- **[Schedule.PHS](https://poolesville.web.app/))**: School scheduling application built to solve a practical problem for the Poolesville community.
+- **[TutorSAT](https://tutorsat.web.app)**: SAT math/reading practice platform with a custom question-rearrangement engine.
+- **[SharedKanban](https://github.com/Jay-B-R/SharedKanban)**: Android Kanban app with calendar integration and Firestore synchronization working natively with Google account.
+- **[Schedule.PHS](https://poolesville.web.app/))**: School scheduling and grade viewing application built to solve a practical problem for the Poolesville community.
 
 ## Interests
 
